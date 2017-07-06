@@ -1,4 +1,4 @@
-# Youtube-Download (English Instructions)
+# Youtube-music (English Instructions)
 A simple python program to download Youtube music. Usase **Pydub** and **ffmpeg** to convert files.
 ## Required packages
 - [pafy](https://github.com/mps-youtube/pafy)
@@ -27,7 +27,7 @@ Change bitrate and extension in **download.py line 43**:
 
 See available formats: `ffmpeg -formats`
 
-# Youtube-Download (Instrucciones en español)
+# Youtube-music (Instrucciones en español)
 Un simple programa en python para descargar musica de Youtube. Utiliza **Pydub** y **ffmpeg** para convertir los archivos.
 ## Paquetes requeridos
 - [pafy](https://github.com/mps-youtube/pafy)
