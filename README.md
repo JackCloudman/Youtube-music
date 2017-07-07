@@ -6,7 +6,8 @@ A simple python program to download Youtube music. Usase **Pydub** and **ffmpeg*
 - [pydub](https://github.com/jiaaro/pydub/)
 - [ffmpeg](https://ffmpeg.org/)
 ## Installation and Run
-* `pip install -r requirements.txt`
+* Download or clone repository
+* Open Youtube-music folder and execute `pip install -r requirements.txt`
 * Download ffmpeg
   * **Linux:** `sudo apt-get install ffmpeg`
   * **Windows and Mac:** Download [here](https://www.ffmpeg.org/download.html)
@@ -35,7 +36,7 @@ Un simple programa en python para descargar musica de Youtube. Utiliza **Pydub**
 - [pydub](https://github.com/jiaaro/pydub/)
 - [ffmpeg](https://ffmpeg.org/)
 ## Instalación y ejecución
-* `pip install -r requirements.txt`
+* Abre la carpeta Youtube-music y ejecuta `pip install -r requirements.txt`
 * Descarga ffmpeg
   * **Linux:** `sudo apt-get install ffmpeg`
   * **Windows y Mac:** Descarga [aquí](https://www.ffmpeg.org/download.html)
